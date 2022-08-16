@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! 👋, I'm Alyzen!</h1>
+<h1 align="center">Hello There! 👋 I'm Alyzen!</h1>
 <h3 align="center">I'm a Mechatronics Engineering student at the University of Waterloo!</h3>
 
 - 🔭 **I’m currently working on React web-apps to build my skillset as a fullstack developer!**
