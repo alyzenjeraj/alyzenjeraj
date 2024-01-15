@@ -1,11 +1,11 @@
 <h1 align="center">Hello There! 👋 I'm Alyzen!</h1>
 <h3 align="center">I'm a Mechatronics Engineering student at the University of Waterloo!</h3>
 
-- 🔭 **I’m currently working on React web-apps to build my skillset as a fullstack developer!**
+- 🔭 **I’m currently working as a firmware engineer at Tesla!**
 
 - 📫 Feel free to contact me at **ajeraj@uwaterloo.ca**
 
-- ⚡ **Next up I want to explore PostgreSQL, TypeScript, and Bun!**
+- ⚡ **Next up I want to explore CUDA!**
 
 
 <h3 align="left">Connect with me:</h3>
